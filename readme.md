@@ -15,4 +15,4 @@ Para el repositorio remoto utilizamos GitHub. Creo en él un repositorio que voy
   
 Utilizo el comando git remote -v para ver los repositorios que tenemos asociados (entre el local y el remoto)
 
-Hago git pull origin main para actualizar el repositorio
+Si escribo alguna actualización tengo que guardar el documento, realizar de nuevo git add ., miro el git status, vuelvo a hacer git commit y por último git push.
